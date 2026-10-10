@@ -111,7 +111,7 @@ All ArgoCD components running on the cluster:
 
 ## Future improvements
 
-- Use Kustomize or Helm for multiple environments (dev, staging, prod).
+- Use Helm for multiple environments (dev, staging, prod).
 - Add an Ingress controller with HTTPS.
 - Add resource limits, health probes and autoscaling (HPA).
 - Replace the CD Jenkins job with ArgoCD Image Updater.
